@@ -15,7 +15,7 @@ Ich bin ein begeisterter Entwickler und arbeite mit einer Vielzahl von Technolog
 - **PHP**
 - **Python**
 
-- ## GitHub Statistiken 📊
+## GitHub Statistiken 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxii1204&show_icons=true&theme=radical)
 
