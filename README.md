@@ -16,8 +16,8 @@ Ich bin ein begeisterter Entwickler und arbeite mit einer Vielzahl von Technolog
 - **Python**
 
 ## Meine Socials
-- 💬 **Discord**: [Maxii1204](https://discord.com/users/379255981630291969)
-- 👨‍💻 **GitHub**: [Maxii1204](https://github.com/Maxii1204)
+- 💬 **Discord**: [Maxi1204](https://discord.com/users/379255981630291969)
+- 👨‍💻 **GitHub**: [Maxi1204](https://github.com/Maxii1204)
 - 🎮 **Twitch**: [Maxi1204_](https://www.twitch.tv/maxi1204_)
 
 ## Meine Projekte
