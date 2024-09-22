@@ -15,6 +15,12 @@ Ich bin ein begeisterter Entwickler und arbeite mit einer Vielzahl von Technolog
 - **PHP**
 - **Python**
 
+- ## GitHub Statistiken 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxii1204&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxii1204&layout=compact&theme=radical)
+
 ## Meine Socials
 - 💬 **Discord**: [Maxi1204](https://discord.com/users/379255981630291969)
 - 👨‍💻 **GitHub**: [Maxi1204](https://github.com/Maxii1204)
