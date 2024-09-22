@@ -1,4 +1,4 @@
-# Hi, ich bin Maxii1204 👋
+# Hi, ich bin Maxi1204 👋
 
 Willkommen auf meinem GitHub-Profil! Mein Name ist Maxi, und ich beschäftige mich leidenschaftlich mit dem Programmieren. Hier findest du meine Projekte, die ich mit verschiedenen Programmiersprachen entwickelt habe.
 
