@@ -1,34 +1,52 @@
-# Hi, ich bin Maxi1204 👋
+# 👋 Hey, ich bin [Dein Name]
 
-Willkommen auf meinem GitHub-Profil! Mein Name ist Maxi, und ich beschäftige mich leidenschaftlich mit dem Programmieren. Hier findest du meine Projekte, die ich mit verschiedenen Programmiersprachen entwickelt habe.
+## 🚀 Über mich
 
-## Über mich
+Ich bin ein leidenschaftlicher Entwickler, der sich auf Game-Entwicklung und Bot-Programmierung spezialisiert hat. 
+Meine Hauptprojekte drehen sich um **Minecraft**, **Discord** und **FiveM**.
 
-Ich bin ein begeisterter Entwickler und arbeite mit einer Vielzahl von Technologien, um meine Ideen zum Leben zu erwecken. Egal ob Backend, Frontend oder Game-Development – ich bin immer bereit, Neues zu lernen und meine Fähigkeiten zu verbessern.
+## 💻 Tech Stack
 
-### Programmiersprachen, die ich beherrsche:
-- **JavaScript**
-- **TypeScript**
-- **Java**
-- **Lua**
-- **HTML/CSS**
-- **PHP**
-- **Python**
+```
+☕ Java        ████████████████░░  Minecraft Plugins & Discord Bots
+🌙 Lua         ████████████░░░░░░  FiveM Scripts
+🔧 Git         ██████████░░░░░░░░  Versionskontrolle
+```
 
-## GitHub Statistiken 📊
+## 🎮 Was ich mache
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxii1204&show_icons=true&theme=radical)
+- **🟢 Minecraft Addons** - Entwicklung von Plugins und Mods für Minecraft-Server/Clients
+- **💬 Discord Bots** - Erstellung von Discord-Bots mit Java für verschiedene Community-Funktionen
+- **🚗 FiveM Scripts** - Lua-basierte Skripte für FiveM Roleplay-Server
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxii1204&layout=compact&theme=radical)
+## 🛠️ Aktuelle Projekte
 
-## Meine Socials
-- 💬 **Discord**: [Maxi1204](https://discord.com/users/379255981630291969)
-- 👨‍💻 **GitHub**: [Maxi1204](https://github.com/Maxii1204)
-- 🎮 **Twitch**: [Maxi1204_](https://www.twitch.tv/maxi1204_)
+- 🔨 Arbeite an verschiedenen Minecraft-Plugins
+- 🤖 Entwickle Discord-Bots für Community-Management
+- 🎯 Erstelle FiveM-Scripts für Roleplay-Server
 
-## Meine Projekte
-Hier findest du einige meiner Projekte, an denen ich derzeit arbeite oder bereits abgeschlossen habe. Schaue gerne mal vorbei und hinterlasse ein ⭐️, wenn dir ein Projekt gefällt!
+## 📊 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxii1204&show_icons=true&theme=tokyonight)
 
-Vielen Dank für deinen Besuch! 😊
+## 🔥 Meine Skills
+
+### Game Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## 📫 Kontakt
+
+- 💼 Discord: `_maxi1204_`
+- 🌐 Website: [Piston3.de](https://deine-website.de)
+
+
+
+⭐️ **Wenn dir meine Projekte gefallen, lass gerne einen Stern da!** ⭐️
+
+![Besucher](https://visitor-badge.laobi.icu/badge?page_id=Maxii1204.Maxii1204)
