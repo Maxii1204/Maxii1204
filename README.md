@@ -1,4 +1,4 @@
-# 👋 Hey, ich bin [Dein Name]
+# 👋 Hey, ich bin Maxi1204
 
 ## 🚀 Über mich
 
@@ -43,7 +43,7 @@ Meine Hauptprojekte drehen sich um **Minecraft**, **Discord** und **FiveM**.
 ## 📫 Kontakt
 
 - 💼 Discord: `_maxi1204_`
-- 🌐 Website: [Piston3.de](https://deine-website.de)
+
 
 
 
